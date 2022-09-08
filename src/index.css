@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url(./Assets/assets/ost1.jpg);
+  background-size: 100% 100%;
+  font-family: Poppins, sans-serif;
+  /* position: relative; */
+  /* height: 100%; */
+}
+.container_fluid {
+  width: 80%;
+  margin: 0 auto;
+}
+.container_flud{
+  width: 90%;
+  margin: 0 auto;
+}
